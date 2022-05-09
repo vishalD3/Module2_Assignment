@@ -1,1 +1,87 @@
+*{
+	 box-sizing: border-box;
+	 margin: 0;
+	 padding: 0;
+}
 
+h1{
+	margin-bottom: 15px;
+}
+
+div#container{
+
+background-color: skyblue;
+
+}
+
+
+p{
+
+width: 330px;
+height: 300px;
+border: 1px solid black;
+margin-bottom: 15px;
+
+}
+
+
+h3{
+
+font-weight: bold;
+
+}
+
+#header1{
+
+}
+
+#header2{
+
+}
+
+#header3{
+
+}
+
+
+
+
+#p1 {
+    background-color: lightgrey;
+    text-align: left;
+    margin: 20px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+#p2{
+
+    background-color: lightgrey;
+    position: relative;
+    left: 500px;
+    bottom: 336px;
+    text-align: left;
+    margin: 20px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+    width: 450px;
+    height: 500px;
+
+}
+
+#p3{
+
+    background-color: lightgrey;
+    position: relative;
+    left: 929px;
+    bottom: 673px;
+    text-align: left;
+    margin: 20px;
+    padding-top: 40px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
