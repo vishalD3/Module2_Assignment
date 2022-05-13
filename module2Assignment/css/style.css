@@ -1,8 +1,7 @@
 
 *{
 	box-sizing: border-box;
-    margin: 0;
-    padding: 0;
+   
 }
 
 
@@ -22,7 +21,7 @@ h1{
     margin-top: 58px;;
 }
 
-div#container{
+#container{
 
     position: relative;
 
@@ -31,11 +30,10 @@ div#container{
 
 p{
 
-    width: 90%;
+    
     height: 176px;
     border: 2px solid black;
-    margin-right: auto;
-    margin-left: auto;
+    margin-right: 10px;
     padding: 46px 10px 5px 10px;
     margin-bottom: 20px;
     overflow: hidden;
@@ -49,7 +47,7 @@ p{
 #header1{
 position: absolute;
     top: 0px;
-    right: 26px;
+    right: 0px;
     width: 97px;
     height: 39px;
     background-color: lightpink;
@@ -62,7 +60,7 @@ position: absolute;
 #header2{
     position: absolute;
    top: 0px;
-    right: 26px; 
+    right: 0px; 
     width: 97px;
     height: 39px;
     background-color: indianred;
@@ -77,7 +75,7 @@ position: absolute;
 #header3{
     position: absolute;
    top: 0px;
-    right: 26px; 
+    right: 0px; 
     width: 97px;
     height: 39px;
     background-color: palegoldenrod;
